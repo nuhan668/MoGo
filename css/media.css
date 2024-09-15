@@ -1,0 +1,410 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    .banner-text h1 {
+   
+    font-size: 45px;
+   
+}
+.banner-text h3 {
+ 
+    font-size: 35px;
+  
+}
+#banner {
+    
+    padding: 145px 0 125px 0;
+   
+}
+.navbar-toggler {
+    
+    border: 0px ;
+   
+}
+button:focus {
+   
+    outline: 0px ;
+}
+.navbar-toggler i{
+    color: #fff;
+    font-size: 30px;
+}
+
+#about {
+    padding: 45px 0 45px 0;
+}
+.about-heading h2 {
+    
+    font-size: 15pt;
+
+}
+.about-heading h3 {
+
+    font-size: 15pt;
+    
+}
+.about-heading p {
+   
+    padding: 0px 12px;
+    margin-bottom: 35px;
+}
+.about-item {
+    margin-bottom: 10px;
+}
+#countup {
+    padding: 45px 0;
+  
+}
+#service {
+    padding: 45px 0;
+}
+.service-text p {
+    
+
+    margin-top: 10px;
+}
+#feedback {
+    padding: 45px 0;
+  
+}
+.feedback-text p {
+
+    font-size: 20px;
+    
+    margin-top: 10px;
+}
+.feedback-text h6 {
+    left: 0px;
+    margin-left: 70px;
+
+}
+#team {
+    padding: 50px 0 ;
+}
+.team-heading h2 {
+  
+    font-size: 25px;
+
+}
+.team-heading p {
+    
+    padding: 0px 12px;
+    margin-bottom: 45px;
+}
+.team-icon i {
+ 
+    padding: 8px;
+}
+.team-name h5 {
+
+    margin-top: 15px;
+}
+.team-name {
+    margin-bottom: 25px;
+}
+.work-heading h2 {
+ 
+    font-size: 22px;
+    
+}
+.work-heading p {
+  
+    padding: 0 12px;
+    margin-bottom: 45px;
+}
+#work {
+    padding: 0 0 50px 0;
+}
+#footer {
+  
+    padding: 45px 0;
+}
+.blog-space {
+    margin-top: 0px;
+}
+.inistagram-heading h3 {
+  
+    margin-bottom: 10px;
+}
+}
+
+/* // Small devices */
+@media (max-width: 767.98px) { 
+
+
+    .navbar-toggler {
+    
+        border: 0px ;
+       
+    }
+    button:focus {
+       
+        outline: 0px ;
+    }
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 30px;
+    }
+    .banner-text h1 {
+        
+        font-size: 75px;
+        
+    }
+
+    .banner-text h3 {
+        
+        font-size: 50px;
+        
+    }
+
+    #banner {
+        
+        padding: 200px 0 130px 0;
+ }
+
+ #about {
+    padding: 50px 0 50px 0;
+}
+
+.about-heading p {
+    
+    margin-bottom: 50px;
+    
+       
+        font-size: 20px;
+      
+        padding: 0px 30px;
+        
+    }
+
+
+.about-item {
+    margin-bottom: 10px;
+}
+#countup {
+    padding: 65px 0;
+    
+}
+.countup-text p {
+  
+    font-size: 20px;
+   
+}
+#feedback {
+    padding: 50px 0;
+
+}
+#service {
+    padding: 70px 0;
+}
+.service-item {
+    text-align: center;
+}
+.service-text h3 {
+   
+    margin-top: 10px;
+}
+#team {
+    padding: 70px 0 70px 0;
+}
+.team-heading p {
+
+    font-size: 18px;
+   
+    padding: 0px 16px;
+    margin-bottom: 60px;
+}
+.team-name h5 {
+  margin-top: 15px;
+  font-size: 20px;
+}
+.team-name {
+    margin-bottom: 30px;
+}
+.team-name p{
+    font-size: 20px;
+}
+#team {
+    padding: 50px 0 50px 0;
+}
+.work-heading p {
+;
+    font-size: 20px;
+    padding: 0px 20px;
+    margin-bottom: 50px;
+}
+#footer {
+   padding: 50px 0;
+}
+.footer1-item p {
+font-size: 20px;
+margin-bottom: 20px;
+}
+.blog-space {
+    margin-top: 10px;
+}
+.blog-heading h3 {
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+.blog-txt h5 {
+    font-weight: 700;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.blog-txt p {
+
+    font-size: 17px;
+    
+}
+
+.inistagram-heading h3 {
+  
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+
+
+}
+
+/* // Medium devices */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+    .navbar-toggler {
+    
+        border: 0px ;
+       
+    }
+    button:focus {
+       
+        outline: 0px ;
+    }
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 30px;
+    }
+
+    .banner-text h1 {
+     
+    font-size: 100px;
+        
+    }
+    .about-heading p {
+        
+       font-size: 20px;
+       padding: 0px 25px;
+       margin-bottom: 70px;
+    }
+    .about-item {
+        margin-bottom: 10px;
+    }
+    .about-text h6 {
+      
+        font-size: 20px;
+      
+    }
+    .countup-text p {
+       
+        font-size: 25px;
+       
+    }
+    .service-item {
+        text-align: center;
+    }
+    .service-text h3 {
+       
+        font-size: 16px;
+      
+        margin-top: 10px;
+    }
+    .service-text p {
+        
+        font-size: 18px;
+        
+    }
+
+    .team-heading p {
+        
+        font-size: 20px;
+        
+        padding: 0 25px;
+        margin-bottom: 70px;
+    }
+    .team-icon i {
+        
+        padding: 15px;
+    }
+    .team-name h5 {
+      
+        font-size: 20px;
+       
+        margin-top: 10px;
+    }
+    .team-name p {
+      
+        font-size: 20px;
+        
+    }
+    .team-name {
+        margin-bottom: 30px;
+    }
+    .work-heading p {
+       font-size: 20px;
+       padding: 0 25px;
+       margin-bottom: 70px;
+    }
+    .work-text h5 {
+        
+        font-size: 20px;
+        
+        margin-top: 10px;
+    }
+    .work-text h6 {
+        
+        font-size: 20px;
+        
+    }
+    .footer1-item p {
+      
+        font-size: 20px;
+        
+    }
+    .footer1-item h6 {
+        
+        font-size: 20px;
+        
+    }
+    .blog-txt h5 {
+        
+        font-size: 16px;
+        
+    }
+    .blog-txt p {
+       
+        font-size: 16px;
+       
+    }
+    .blog-heading h3 {
+        
+        font-size: 16px;
+        margin-top: 20px;
+    }
+    .blog-space {
+        margin-top: 20px;
+       
+    }
+    .inistagram-heading h3 {
+        
+        font-size: 16px;
+        
+        margin-bottom: 19px;
+        margin-top: 30px;
+    }
+    .inista-text p {
+    
+        font-size: 16px;
+        
+    }
+
+    
+ }
